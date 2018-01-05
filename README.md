@@ -1,7 +1,3 @@
-# HW2
-# coding: utf-8
-
-# In[13]:
 
 # מתכון להכנת Biryani
 
@@ -53,5 +49,4 @@ This is the source link [link to source](http://www.geniuskitchen.com/recipe/the
 -Layer rice and meat mixture and sprinkle with saffron mixture.
 -Put in oven at 350°F for 20 minutes.
 
-
-get_ipython().system('[Image of Biryani](http://img.sndimg.com/food/image/upload/w_560,h_420,c_fill,fl_progressive,q_80/v1/img/recipes/17/78/30/piclm9JUN.jpg)
+![Image of Biryani](https://github.com/snooptom/HW2/blob/master/biryani.jpg?raw=true)
